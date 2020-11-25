@@ -1,1 +1,0 @@
-SELECT id FROM users JOIN objects ON users.objects_id = objects.id
